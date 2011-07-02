@@ -1,0 +1,5 @@
+#!/bin/sh
+ln -s bundle-available/nerdtree bundle/nerdtree
+ln -s bundle-available/php53 bundle/php53
+ln -s bundle-available/web-indent bundle/web-indent
+ln -s bundle-available/zenburn bundle/zenburn
